@@ -1,5 +1,3 @@
-## Hi there 👋 I am Brianna
-
 <h2 align="left">Hi 👋! My name is Brianna and I'm a former scientist turned full stack software engineer, from New York!</h2>
 
 ###
