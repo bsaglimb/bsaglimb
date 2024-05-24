@@ -41,9 +41,9 @@
 </br>
 
 <div>
-    <p>Connect with me!
+    <p align="left">Connect with me!
   <a href="https://www.linkedin.com/in/brianna-s-37ab3b14a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
         </p>
 </div>
