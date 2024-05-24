@@ -1,8 +1,10 @@
 <h2 align="left">Hi 👋! My name is Brianna</h2>
+<div>
 <p> I'm a former scientist turned full stack software engineer!</p>
 
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9rajk5cHR4OHhudGUycnYwdm9xeDQ3cW13OHJsd24yeG5ib25lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" height="200"  />
 
+</div>
 
 <div align="center">
   <p>These are some of the technologies I use</p>
