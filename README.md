@@ -6,6 +6,8 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9rajk5cHR4OHhudGUycnYwdm9xeDQ3cW13OHJsd24yeG5ib25lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 </div>
 
+<p>test text here</p>
+
 <div align="center">
   <p>These are some of the technologies I use</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
