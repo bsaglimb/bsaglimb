@@ -2,9 +2,9 @@
 <p> I'm a former scientist turned full stack software engineer!</p>
 
 
-<p align="center">
+<div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9rajk5cHR4OHhudGUycnYwdm9xeDQ3cW13OHJsd24yeG5ib25lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
-</p>
+</div>
 
 <div align="center">
   <p>These are some of the technologies I use</p>
