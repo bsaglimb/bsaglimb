@@ -2,10 +2,11 @@
 <div>
     <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9rajk5cHR4OHhudGUycnYwdm9xeDQ3cW13OHJsd24yeG5ib25lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" height="200"  />
 <p> I'm a former scientist turned full stack software engineer!</p>
-<p>Driven by a relentless pursuit of understanding and a passion for problem-solving, I have transitioned from a career in neuroscience to the dynamic world of full-stack coding. As an aspiring Full Stack Software Engineer, I bring with me a wealth of experience in research, critical thinking, and meticulous attention to detail cultivated during my tenure as a lab manager and technician in neuroscience research.</p>
+<p>Driven by a relentless pursuit of understanding and a passion for problem-solving, I have transitioned from a career in neuroscience to the dynamic world of full-stack coding. As an aspiring Full Stack Software Engineer, I bring with me a wealth of experience in research, critical thinking, and meticulous attention to detail cultivated during my tenure as a scientist.</p>
 
 </div>
-
+</br>
+</br>
 <div align="center">
   <p>These are some of the technologies I use</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
