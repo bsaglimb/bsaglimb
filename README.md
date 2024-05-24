@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Brianna and I'm a former scientist turned full stack software engineer!</h2>
+<h2 align="left">Hi 👋! My name is Brianna</h2>
+<p> I'm a former scientist turned full stack software engineer!</p>
 
-###
 
 <div align="center">
-  <h2>These are some of the technologies I use</h2>
+  <p>These are some of the technologies I use</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
