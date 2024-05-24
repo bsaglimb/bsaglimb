@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-##
+</br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brianna-s-37ab3b14a/" target="_blank">
